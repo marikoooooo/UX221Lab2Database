@@ -12,4 +12,4 @@ This will continuously deploy on gh-pages using the [diy-pwa/npm-build-2-gh-page
 
 The idea of this is as a consumer of microfrontends. There is an example microfrontend for [paypal standard](https://github.com/diy-pwa/paypal-microfrontend) here.
 
-Have fun composing work from autonomous teams. a
+Have fun composing work from autonomous teams.
